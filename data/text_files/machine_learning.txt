@@ -1,0 +1,12 @@
+Machine Learning Basics
+Machine learning is a subfield of artificial intelligence (AI) that allows computers to learn from data and make predictions or decisions without being explicitly programmed for every task.
+
+Core Types of Machine Learning
+
+• Supervised Learning: Trains algorithms using labeled datasets to classify data or predict continuous outcomes (e.g., spam detection, medical diagnosis).
+• Unsupervised Learning: Analyzes unlabeled data to find hidden structures, patterns, or groupings like clustering and anomaly detection.
+• Semi-Supervised Learning: Uses a small amount of labeled data combined with a large pool of unlabeled data to improve accuracy.
+• Reinforcement Learning: Trains an agent to make decisions through a trial-and-error reward and penalty system in a dynamic environment.
+• Generative AI: A specialized subset of machine learning that learns data distributions to create new content such as text, images, or audio.
+
+     

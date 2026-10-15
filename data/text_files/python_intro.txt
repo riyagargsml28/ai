@@ -1,0 +1,11 @@
+Python Programming Introduction
+Python is a high-level, general-purpose programming language created by Guido van Rossum and released on February 20, 1991.
+Key Features & Design
+• Interpreted & Dynamic: Code runs line-by-line without a mandatory preliminary compilation step, and variable types are determined automatically at runtime.
+• Readable Syntax: It uses clean indentation and English-like keywords rather than complex curly brackets, making it fast to learn and write.
+• Multi-Paradigm: It supports object-oriented, procedural, and functional programming styles.
+• Name Origin: The language is named after the British comedy troupe Monty Python's Flying Circus, not the reptile.
+Common Uses
+• Data Science & AI: Widely used with specialized libraries for machine learning, statistical modeling, and data visualization.
+• Web & Software Development: Used to build server-side applications, APIs, and cross-platform desktop software.
+• Task Automation & Scripting: Popular among developers and non-programmers alike to automate repetitive workflows, file management, and system tasks.
