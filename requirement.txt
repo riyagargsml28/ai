@@ -3,5 +3,3 @@ langchain-core
 langchain-community
 pypdf
 pymupdf
-
-riya garg
